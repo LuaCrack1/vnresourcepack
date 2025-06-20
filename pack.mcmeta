@@ -1,6 +1,8 @@
 {
   "pack": {
     "pack_format": 48,
-    "description": "Việt hóa Minecraft 1.21 + XP RGB + GUI tùy chỉnh"
+    "name": "Gói Việt Hóa Minecraft 1.17 - 1.22",
+    "description": "Việt hóa đầy đủ item, mob, block, menu, thành tích cho Minecraft Bedrock 1.17–1.22"
+    "min_engine_version": [1, 17, 0]
   }
 }
