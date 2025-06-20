@@ -376,4 +376,29 @@
   "marketplace.purchase.cancelled": "Giao dịch đã bị hủy.",
   "marketplace.purchase.pending": "Đang xử lý giao dịch...",
   "marketplace.purchase.restore": "Đã khôi phục giao dịch chưa hoàn tất"
+  "structure.minecraft.village": "Làng",
+  "structure.minecraft.pillager_outpost": "Tiền đồn Pillager",
+  "structure.minecraft.igloo": "Lều tuyết",
+  "structure.minecraft.mineshaft": "Hầm mỏ bỏ hoang",
+  "structure.minecraft.stronghold": "Pháo đài",
+  "structure.minecraft.jungle_pyramid": "Đền rừng",
+  "structure.minecraft.desert_pyramid": "Kim tự tháp sa mạc",
+  "structure.minecraft.swamp_hut": "Túp lều phù thủy",
+  "structure.minecraft.ocean_ruin": "Tàn tích đại dương",
+  "structure.minecraft.ocean_monument": "Đài tưởng niệm dưới biển",
+  "structure.minecraft.shipwreck": "Tàu đắm",
+  "structure.minecraft.buried_treasure": "Kho báu chôn vùi",
+  "structure.minecraft.ancient_city": "Thành phố cổ đại",
+  "structure.minecraft.trail_ruins": "Tàn tích khảo cổ",
+  "structure.minecraft.bastion_remnant": "Tàn tích pháo đài"
+  "structure.minecraft.mineshaft": "Hầm mỏ bỏ hoang",
+  "structure.minecraft.stronghold": "Pháo đài",
+  "structure.minecraft.ancient_city": "Thành phố cổ đại",
+  "structure.minecraft.trial_chambers": "Phòng thử thách"
+  "structure.minecraft.nether_fortress": "Pháo đài Địa ngục",
+  "structure.minecraft.bastion_remnant": "Tàn tích pháo đài",
+  "structure.minecraft.ruined_portal": "Cổng hỏng"
+  "structure.minecraft.end_city": "Thành phố End",
+  "structure.minecraft.end_ship": "Tàu End",
+  "structure.minecraft.stronghold": "Pháo đài"
 }
